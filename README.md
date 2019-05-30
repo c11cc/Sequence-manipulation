@@ -6,7 +6,7 @@ This is a script for calculating the GC content of settled length around target 
 * desired sequence file is in .fa format, with chrmosome id after >;<br>
 * desired region should be smaller than the length of the sequence;<br>
 * GC box length is the length of the region for calculating GC content;<br>
-* base 'N'is excluded from calculation.<br>
+* base 'N' is excluded from calculation.<br>
 
 `seq_extract.plx`<br>
 This is a script for fetching the sequence of settled length around target site from fasta file;<br>
